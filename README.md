@@ -2,13 +2,15 @@
 
 >
 ------------------------------------------------------------------------------------------------------------------------
-Questo Repository contiene la struttura Base Symfony versione 4.4[modo PRODUZIONE] pronta per il Deploy su Heroku.
-NB: 
-Heroku manuale : https://devcenter.heroku.com/articles/deploying-symfony4#url-rewrites
+Questo Repository contiene la struttura Base Symfony versione 4.4 / FLEX pronta per il Deploy su Heroku.
+
+> ----- Ho eseguito questi manuali:
+* Heroku manuale : https://devcenter.heroku.com/articles/deploying-symfony4#url-rewrites
 				[ composer create-project symfony/website-skeleton symfony4-heroku/ ]
 				
-Struttura aggiornata alla versione SYMFONY 4.4/FLEX come richiesto 
-dal Manuale Officiale -> https://symfony.com/doc/4.4/setup/flex.html 
+* Struttura aggiornata manualmente alla versione SYMFONY 4.4/FLEX come richiesto dal Manuale Officiale
+				[ https://symfony.com/doc/4.4/setup/flex.html ]
+
 >
 ------------------------------------------------------------------------------------------------------------------------
 Questo Repository contiene la struttura Base Symfony versione 4 pronta per il Deploy su Heroku.
